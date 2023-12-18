@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091562905779",
+    "project_id": "tempesp32firebase",
+    "storage_bucket": "tempesp32firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091562905779:android:120fa739996d48bc3790c6",
+        "android_client_info": {
+          "package_name": "com.example.temp32_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9cubNmCRgAQhmMNd9upMcHBWuXDzsMbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
